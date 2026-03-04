@@ -1,0 +1,17 @@
+Couleurs TO8
+
+0: noir
+1: rouge
+2: vert
+3: jaune
+4: bleu
+5: magenta
+6: cyan
+7: blanc
+8: gris foncé
+9: rouge clair
+10: vert clair
+11: jaune clair
+12: bleu clair
+13: magenta clair
+14: cyan clair
