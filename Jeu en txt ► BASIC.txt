@@ -1,5 +1,5 @@
 10 CLS
-20 PRINT "    _____ê"
+20 PRINT "    _____¬ê"
 30 PRINT "  __|___|__ "
 40 PRINT " /         \"
 50 PRINT "|    LOCK   |"
